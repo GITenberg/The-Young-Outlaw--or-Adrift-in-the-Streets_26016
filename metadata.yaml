@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26016#The-Young-Outlaw--or-Adrift-in-the-Streets
 gutenberg_issued: '2008-07-09'
 gutenberg_type: Text
 identifiers:
